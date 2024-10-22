@@ -92,7 +92,7 @@ const App = () => (
         yapılmayan tavşanla karşılaşan insanlar var mıdır bilinmez? Çünkü insan
         başlı başına bir bilinmez ve bazen pes etmek üzere olduğunuzda veya
         nasıl yapacağınızı bilmediğinizde birisi çıkar ve size aramadığınız
-        şeylerin cevabını bile verebilir.
+        şeylerin cevabını bile verebilir. 
       </Paragraph>
     </Col>
   </Row>
