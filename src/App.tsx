@@ -86,7 +86,7 @@ const App = () => (
         ürünleri bir gün birleşip insanı oluşturabilir mi ? Bunu öğrenmesi
         gerekeceği kesin peki ama bunu öğrenecek olsa nasıl olurdu sorusunun
         cevabını vermeye çalışalım ? Üniversite yıllarında fark edilen bir
-        gencin kendisinden habersiz şekilde bir çip yerleştirsek ve tüm algı
+        gencin kendisinden habersiz şekilde kendisine bir çip yerleştirsek ve tüm algı
         fikir yorum karar mekanizmalarınızı yaşayışını takip etsek bunu
         öğretebiliriz. Tabi bu uzun macerada habersiz girdikleri delikte 62'den
         yapılmayan tavşanla karşılaşan insanlar var mıdır bilinmez? Çünkü insan
